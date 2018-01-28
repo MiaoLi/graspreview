@@ -2,11 +2,11 @@
 ## A survey of robotic grasping in an object-centric perspective
 1. Introduction
  
- -1.1 Brief overview of hand-centric grasping
+	1.1 Brief overview of hand-centric grasping
 
- -1.2 Introduction of object-centric grasping
+	1.2 Introduction of object-centric grasping
  
- -1.3 Core problems of object-centric robotic grasping
+	1.3 Core problems of object-centric robotic grasping
 
 2. Planning of object-centric grasping 
  

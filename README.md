@@ -36,6 +36,6 @@
 
 5. Discussion and Conclusion
 
-	5.1 Still open problems
+	5.1 Still open problems (Perception, especially object segmentation, planning for partial objects, planning with task constraints)
 
 	5.2 Next place to go

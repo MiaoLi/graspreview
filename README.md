@@ -6,9 +6,9 @@
  
 	1.1 Brief overview of hand-centric grasping (hand design, hand kinematics, contact model, hand IK, reachability. A large amount of work focus on this part, with the assumption that a better hand will lead to a better grasp.)
 
-	1.2 Introduction of object-centric grasping (force closure, form closure, caging)
+	1.2 Introduction of object-centric grasping (force closure, form closure, caging, claim why this perspective is more essential and crucial, why is this important.)
  
-	1.3 Core problems of object-centric robotic grasping (multi-contact planning, Compliant interaction, Robust manipulation)
+	1.3 Core problems of object-centric robotic grasping (multi-contact planning, Compliant interaction, Robust manipulation. With drawings that shows the definition of each problem.)
 
 2. Planning of object-centric grasping 
  

@@ -4,7 +4,7 @@
 
 1. Introduction
  
-	1.1 Brief overview of hand-centric grasping (hand design, hand kinematics, contact model, hand IK, reachability)
+	1.1 Brief overview of hand-centric grasping (hand design, hand kinematics, contact model, hand IK, reachability. A large amount of work focus on this part, with the assumption that a better hand will lead to a better grasp.)
 
 	1.2 Introduction of object-centric grasping (force closure, form closure, caging)
  

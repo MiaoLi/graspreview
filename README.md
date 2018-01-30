@@ -12,7 +12,7 @@
 
 2. Planning of object-centric grasping 
  
-	2.1 Known objects (force-closure, caging)
+	2.1 Known objects (force-closure, caging, differ in how the grasp candidates are sampled)
  
 	2.2 Familiar objects (Learning)
  

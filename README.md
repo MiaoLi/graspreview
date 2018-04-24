@@ -1,6 +1,6 @@
 # graspreview
 
-## A survey of robotic grasping in an object-centric perspective
+## An object-centric perspective of robotic grasping
 
 1. Introduction
  
